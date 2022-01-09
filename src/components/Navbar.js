@@ -4,7 +4,7 @@ const Navbar = () => {
       <div className="brand font-montserrat font-bold cursor-pointer">
         <h2 className="text-xl text-purple-700">antstack.io</h2>
       </div>
-      <div className="menu">
+      <div className="menu mr-2">
         <button className="bg-purple-500 text-white rounded-full p-2">
           <svg
             className="w-6 h-6"
